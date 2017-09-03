@@ -20,6 +20,8 @@ cipher = 'KPZALHLAGRGYHUAUBMGHNEVOWECJGMRHVOEANHDPOGYPBXFMONWGZXFFOWHDLOAZAUGNZQ
 dictionary_keys = {}
 best_keys_dictionary = {}
 
+#this is a comment
+
 #calculates a score from the decipherment of key and ciphertext
 def fitness_score(problem, sol):
     
